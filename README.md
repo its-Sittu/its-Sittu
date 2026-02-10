@@ -1,6 +1,6 @@
 # 💫 About Me:
 :<br><br>💡 About Me<br><br>🔭 Working on DSA, Web Development & LeetCode problem-solving<br><br>👯 Open to open-source, DSA & web-based collaborations<br><br>🌱 Learning DSA, HTML, CSS, JavaScript & backend basics<br><br>🤝 Improving clean code practices & system design fundamentals<br><br>💬 Ask me about DSA, LeetCode & GeeksforGeeks<br><br>⚡ Fun fact: I simplify complex concepts
-
+.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sittu-kumar-singh-14980a338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sitturaj730@gmail.com) 
