@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 :<br><br>💡 About Me<br><br>🔭 Working on DSA, Web Development & LeetCode problem-solving<br><br>👯 Open to open-source, DSA & web-based collaborations<br><br>🌱 Learning DSA, HTML, CSS, JavaScript & backend basics<br><br>🤝 Improving clean code practices & system design fundamentals<br><br>💬 Ask me about DSA, LeetCode & GeeksforGeeks<br><br>⚡ Fun fact: I simplify complex concepts
 .
 
